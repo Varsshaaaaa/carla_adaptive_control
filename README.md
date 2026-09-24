@@ -98,7 +98,7 @@ python main.py
 
 ---
 
-## How Each Component Works (Interview Guide)
+## How Each Component Works 
 
 ### YOLO (perception.py)
 YOLOv8n runs on GPU (CUDA). It takes a 640x360 RGB image and outputs bounding boxes, class labels, and confidence scores for vehicles and pedestrians. It does **not** produce distance.
