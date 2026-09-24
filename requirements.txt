@@ -1,0 +1,9 @@
+carla==0.9.15
+torch
+torchvision
+torchaudio
+ultralytics
+opencv-python
+numpy
+pygame
+transforms3d
